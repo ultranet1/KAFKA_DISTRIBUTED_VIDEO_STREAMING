@@ -1,1 +1,1 @@
-# Kafka_Streaming-Fraud-Detection-System
+# Using Kafka to Capture Image from streaming video
